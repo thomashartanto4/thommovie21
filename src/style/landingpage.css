@@ -1,0 +1,52 @@
+.myBG {
+    height: 100vh;
+    background: url("../asset/image/bg/bg.jpg");
+    background-size: cover;
+}
+
+.intro {
+    height: 300px;
+    display: flex;
+    justify-content: end;
+    align-items: end;
+}
+
+.title{
+    font-size: 3rem;
+    font-weight: 800;
+    line-height: 1;
+    text-shadow: 2px 2px black;
+    text-align: center;
+    letter-spacing: 4px;
+}
+
+.titlenav{
+    font-size: 1rem;
+    font-weight: 800;
+    line-height: 1;
+    text-shadow: 2px 2px black;
+    text-align: left;
+    letter-spacing: 3px;
+}
+
+.trending{
+    height: auto;
+    background: url("../asset/image/bg/bgtrend.jpg");
+    background-size: cover;
+}
+
+.movieImage{
+    height: auto;
+}
+
+.indo{
+    height: auto;
+    background: url("../asset/image/bg/bgindo.jpg");
+    background-size: cover;
+}
+
+.allmoviesBG {
+    height: auto;
+    background: url("../asset/image/bg/bgallmovie.jpg");
+    background-size: cover;
+}
